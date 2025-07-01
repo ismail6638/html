@@ -1,0 +1,70 @@
+programlama dili nedir?
+
+derleyici ve yorumlayıcı 
+
+protokol nedir ?
+
+derleyici nedir (compiler)
+
+client nedir(müşteri nedir)?
+
+server nedir(sunucu nedir)?
+sunucu, internet e baglı guclu ve sürekli acık bir bilgisayarda
+
+ağ nedir ?
+bitbirine baglı bilgisayarlar ve cihazlarda olusan bir sistemdir.
+
+web nedir 
+web internetin bir parcasıdır 
+internet aracalıgıyla birbirine  baglı web sitelerinin bir araya gelmesinden baska bir sey degildir 
+
+web (world-wide-web)
+
+web sitesi nedir ?
+
+web server nedir?
+web server yazılımdır sonucu bir donanımdır 
+
+veritabani nedir ?
+verilerin duzenli bir sekilde sağlayan ve gerektiğinde erişebildiği bir sistemdir.
+
+veriler yonetim sistemi nedir
+
+
+protokol nedir ?
+bir dizi kurallar dır . eğitim kuralları sağlık kuralları ağlar kuralları .
+ftp , tcp,utp, https,dns, ip ,
+
+
+ip nedir?
+sayısal etikettir. ve internete bağlanan her cihaza benzersiz bir ip adresi verilir.
+ip bir arac plakasına benzetebilirler, tıpkı her arabanın kendine orgu bir plakası oldugu gibi internete bağlanan, her cihazin
+ozgu bir numarası vardır.
+
+
+dns nedir ? 
+internet uzerindeki alanadlarını adreslerine ceviren bir sistemdir 
+bilgisayarlar ip adresleriyle de iletişim kurar, ancak insanlar icin alan adlarını hatırlamak daha kolaydır .
+
+
+
+web tasarımın konsepti nedir ?
+arayuz tasarımı kullanıcılar
+
+web programlama dilleri iki kategoriye ayrılır 
+
+statik siteler farkı nedir ? 
+
+
+dinamik siteler 
+
+framework cerceve nedir ? 
+
+basıtçe bir ifadeyle bir çerçeve programcıların  yeni uygulamalar geliştirmeye yardımcı olan bir yazılımdır.
+
+
+
+
+evde cozumleyin ayni hizalayarak box text box veya formlar tek tek haline getireceksin duzenli hale
+haftaya login page yapıp gelin 
+
